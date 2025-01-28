@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for adsights-cuda-vector-add-test on 2025-01-28T11:12:17-08:00
+# fly.toml app configuration file generated for adsights-cuda-vector-add-test-summer-pine-772 on 2025-01-28T12:37:54-08:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'adsights-cuda-vector-add-test'
-primary_region = 'iad'
+app = 'adsights-cuda-vector-add-test-summer-pine-772'
+primary_region = 'ord'
 
 [build]
 
